@@ -43,3 +43,7 @@ Solution : Using AI technology to detect defects, monitor temperature and nozzle
 
 <!-- Add your demo GIF: ![Demo](assets/demo.gif) -->
 <!-- Or MP4: drag assets/demo.mp4 into the GitHub README editor / an Issue, then paste the generated https://github.com/user-attachments/assets/... URL here. -->
+
+https://github.com/user-attachments/assets/20ed8c2d-660d-421b-a24d-05d42f096724
+
+
